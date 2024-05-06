@@ -7,8 +7,8 @@ Config. if needed and Then Debug the code and Run it on your Device/Emulator <br
 ![Snapshot 1](Resources/Android_Studio.png)
 
 <div>
-  <p style="color:#e6e8e3;">
-Open Android Studio>New Project>(Select the Unzipped File and make sure to open Project's root directory)
+  <p style="background-color:grey;">
+<strong> Open Android Studio </strong> > New Project > (Select the Unzipped File and make sure to open Project's root directory)
   </p>
   
 </div>
