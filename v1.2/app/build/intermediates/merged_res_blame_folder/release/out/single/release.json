@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_opened.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_download.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_pause.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_delete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_open.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_complete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\anim_slide_splash.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\anim\\slide_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_delete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_open.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_opened.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_open.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_edit.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_hourglass.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\hourglass.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_open.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_open.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_text_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\text_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_opened.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_incomplete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\incomplete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_image_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\image_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_video_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\video_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_video_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\video_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_incomplete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\incomplete.png"
+    },
+    {
+        "merged": "com.SK.filedownloader.app-merged_res-42:/layout_downloads_adapter2.xml.flat",
+        "source": "com.SK.filedownloader.app-main-43:/layout/downloads_adapter2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_image_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\image_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_play.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_edit.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_image_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\image_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_hourglass.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\hourglass.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_audio_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\audio_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\layout_activity_downloads_page2.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\layout\\activity_downloads_page2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_hourglass.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\hourglass.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_text_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\text_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_hourglass.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\hourglass.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_pause.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_audio_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\audio_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_pause.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_play.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_delete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\layout_file_properties_customize.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\layout\\file_properties_customize.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_delete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_play.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_delete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_video_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\video_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_audio_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\audio_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_text_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\text_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_edit.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_edit.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_opened.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_image_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\image_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_image_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\image_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\layout_activity_notification_layout.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\layout\\activity_notification_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_incomplete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\incomplete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_text_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\text_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_edit.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_video_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\video_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_text_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\text_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_video_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\video_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_incomplete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\incomplete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\color_button_state_color.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\color\\button_state_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_complete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable_notification_icon.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable\\notification_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_delete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_apk_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\apk_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_audio_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\audio_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_download.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_apk_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\apk_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_apk_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\apk_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_play.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_incomplete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\incomplete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_complete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\layout_activity_download_page.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\layout\\activity_download_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\layout_downloads_adapter2.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\layout\\downloads_adapter2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_opened.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_audio_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\audio_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_opened.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_apk_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\apk_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_play.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_download.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_download.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_open.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_complete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable_rounded_bg.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_complete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_hourglass.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\hourglass.png"
+    },
+    {
+        "merged": "com.SK.filedownloader.app-merged_res-42:/layout_activity_downloads_adapter.xml.flat",
+        "source": "com.SK.filedownloader.app-main-43:/layout/activity_downloads_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_edit.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_incomplete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\incomplete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_hourglass.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\hourglass.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_complete.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_audio_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\audio_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\layout_activity_downloads_adapter.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\layout\\activity_downloads_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-mdpi_pause.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-mdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_pause.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_download.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_image_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\image_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xhdpi_download.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xhdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxhdpi_text_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxhdpi\\text_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_play.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_apk_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\apk_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-ldpi_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-ldpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_apk_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\apk_file.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-hdpi_pause.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-merged_res-42:\\drawable-xxxhdpi_video_file.png.flat",
+        "source": "C:\\Users\\ManjunathSK\\.gradle\\daemon\\8.0\\com.SK.filedownloader.app-main-43:\\drawable-xxxhdpi\\video_file.png"
+    }
+]
