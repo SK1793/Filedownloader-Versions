@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/LLAlldownloads"
+    android:orientation="vertical"
+    tools:context=".downloadPage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    </LinearLayout>
+<RelativeLayout
+    android:layout_margin="2dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:foregroundGravity="fill_horizontal"
+    android:orientation="horizontal">
+
+    <androidx.constraintlayout.utils.widget.MotionLabel
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="26dp"
+        android:text="Current"
+        android:textColor="?colorOnSecondary"/>
+</RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/PBar_CurrentD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:outlineSpotShadowColor="?colorOnSecondary"/>
+    <TextView
+        android:id="@+id/TvFetchErrorCurrent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="No records found!try again!"
+        android:textColor="?colorOnSecondary"/>
+    <RelativeLayout
+        android:id="@+id/RL_Current"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <!--recycler view for displaying Current Downloads-->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/idRVCurrent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.utils.widget.MotionLabel
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="All"
+        android:textSize="26dp"
+        android:textColor="?colorOnSecondary"
+        />
+
+    </RelativeLayout>
+    <ProgressBar
+        android:id="@+id/PBar_AllD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:outlineSpotShadowColor="?colorOnSecondary"/>
+    <TextView
+        android:id="@+id/TvFetchErrorAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="No records found!try again!"
+        android:textColor="?colorOnSecondary"/>
+    <RelativeLayout
+        android:id="@+id/RLAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--recycler view for displaying All Downloads-->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/idRVAll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp" />
+    </RelativeLayout>
+</LinearLayout>

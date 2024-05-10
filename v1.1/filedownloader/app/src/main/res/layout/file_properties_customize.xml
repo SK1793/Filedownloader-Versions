@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/LL_props_custom"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="7dp">
+
+
+    <com.google.android.material.circularreveal.cardview.CircularRevealCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp"
+        app:strokeColor="?colorOnSecondary"
+        android:outlineAmbientShadowColor="?colorOnSecondary">
+
+        <LinearLayout
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/ETFilename"
+                android:layout_gravity="center"
+                android:minWidth="48dp"
+                android:minHeight="48dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="?colorOnSecondary"
+                android:textAlignment="center"
+                android:hint="Filename"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:autofillHints="Filename" />
+
+            <EditText
+                android:id="@+id/ETExtension"
+                android:layout_gravity="center"
+                android:minWidth="48dp"
+                android:minHeight="48dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="?colorOnSecondary"
+                android:hint="Extension"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:autofillHints="Extension" />
+
+            <Button
+                android:id="@+id/BtnUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Update"
+                />
+
+        </LinearLayout>
+
+    </com.google.android.material.circularreveal.cardview.CircularRevealCardView>
+
+
+</LinearLayout>
