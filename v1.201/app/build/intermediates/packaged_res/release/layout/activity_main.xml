@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LL1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/AdView_MainActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            app:adSize="BANNER"
+            app:adUnitId="ca-app-pub-9259384589324790/6432494403"
+            ></com.google.android.gms.ads.AdView>
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/url"
+        android:layout_width="228dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:autofillHints="Url"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:hint="Enter the URL"
+        android:inputType="text"
+        android:textColor="@color/purple_200"
+/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="?colorOnBackground"
+        android:text="Enter Custom Path/Select else stored to 'FileDownloader' folder in 'Download'"/>
+    <LinearLayout
+        android:id="@+id/ll3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+
+    <EditText
+        android:id="@+id/ETPath"
+        android:layout_width="228dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:autofillHints="extension type"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:hint="Select Path"
+        android:inputType="text"
+        android:textColor="?colorPrimary"
+        tools:ignore="LabelFor,TextFields" />
+
+        <ImageButton
+            android:id="@+id/IB_select_direct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/opened"
+            android:backgroundTint="@color/button_state_color"
+            android:outlineAmbientShadowColor="?colorOnPrimary"
+            android:contentDescription="Directory Selector"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/IB_Popup_Props"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            android:background="@drawable/edit"
+            android:contentDescription="Configure File" />
+
+    <Button
+        android:id="@+id/download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="download"
+        android:background="@drawable/rounded_bg"
+ />
+
+    </LinearLayout>
+    <!-- headline -->
+    <RelativeLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        android:layout_marginTop="45dp"
+        android:foregroundGravity="fill_horizontal"
+        android:orientation="horizontal"
+>
+
+        <TextView
+            android:id="@+id/tvLabelDownloads"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="Downloads"
+            android:textSize="32sp" />
+
+            <Button
+                android:id="@+id/btnAllDownloads"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/rounded_bg"
+                android:text="All"
+                android:outlineAmbientShadowColor="?colorOnSecondary"
+  />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:isScrollContainer="true"
+        android:orientation="vertical"
+ >
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <ProgressBar
+                android:id="@+id/PbDownloadLoading"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/lvDownloads"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:dividerHeight="1dp"
+            android:textFilterEnabled="true"
+            android:scrollbars="vertical"
+            ></ListView>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+
